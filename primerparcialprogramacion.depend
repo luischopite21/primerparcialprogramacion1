@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589807103 source:c:\users\tamura\desktop\primerparcialprogramacion\main.c
+	<stdio.h>
+	<stdlib.h>
+
